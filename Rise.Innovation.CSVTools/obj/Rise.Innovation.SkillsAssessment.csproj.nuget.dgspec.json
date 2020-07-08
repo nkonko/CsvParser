@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kevin.duber\\source\\repos\\Rise.Innovation.SkillsAssessment\\Rise.Innovation.SkillsAssessment\\Rise.Innovation.SkillsAssessment.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kevin.duber\\source\\repos\\Rise.Innovation.SkillsAssessment\\Rise.Innovation.SkillsAssessment\\Rise.Innovation.SkillsAssessment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kevin.duber\\source\\repos\\Rise.Innovation.SkillsAssessment\\Rise.Innovation.SkillsAssessment\\Rise.Innovation.SkillsAssessment.csproj",
+        "projectName": "Rise.Innovation.SkillsAssessment",
+        "projectPath": "C:\\Users\\kevin.duber\\source\\repos\\Rise.Innovation.SkillsAssessment\\Rise.Innovation.SkillsAssessment\\Rise.Innovation.SkillsAssessment.csproj",
+        "packagesPath": "C:\\Users\\kevin.duber\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kevin.duber\\source\\repos\\Rise.Innovation.SkillsAssessment\\Rise.Innovation.SkillsAssessment\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kevin.duber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

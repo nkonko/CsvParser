@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Rise.Innovation.CSVTools": {
+      "commandName": "Project",
+      "commandLineArgs": "file1.csv file2.csv mergedCsvFiles.csv IdCiudad"
+    }
+  }
+}

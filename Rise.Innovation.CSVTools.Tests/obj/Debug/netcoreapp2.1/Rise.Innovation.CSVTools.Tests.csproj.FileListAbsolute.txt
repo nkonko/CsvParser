@@ -1,0 +1,14 @@
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\bin\Debug\netcoreapp2.1\Rise.Innovation.CSVTools.Tests.deps.json
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\bin\Debug\netcoreapp2.1\Rise.Innovation.CSVTools.Tests.runtimeconfig.json
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\bin\Debug\netcoreapp2.1\Rise.Innovation.CSVTools.Tests.runtimeconfig.dev.json
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\bin\Debug\netcoreapp2.1\Rise.Innovation.CSVTools.Tests.dll
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\bin\Debug\netcoreapp2.1\Rise.Innovation.CSVTools.Tests.pdb
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\obj\Debug\netcoreapp2.1\Rise.Innovation.CSVTools.Tests.csprojAssemblyReference.cache
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\obj\Debug\netcoreapp2.1\Rise.Innovation.CSVTools.Tests.csproj.CoreCompileInputs.cache
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\obj\Debug\netcoreapp2.1\Rise.Innovation.CSVTools.Tests.AssemblyInfoInputs.cache
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\obj\Debug\netcoreapp2.1\Rise.Innovation.CSVTools.Tests.AssemblyInfo.cs
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\obj\Debug\netcoreapp2.1\Rise.Innovation.CSVTools.Tests.dll
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\obj\Debug\netcoreapp2.1\Rise.Innovation.CSVTools.Tests.pdb

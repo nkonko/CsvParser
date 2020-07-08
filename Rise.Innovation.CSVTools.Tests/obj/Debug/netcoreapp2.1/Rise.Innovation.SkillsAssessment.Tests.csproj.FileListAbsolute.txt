@@ -1,0 +1,14 @@
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\bin\Debug\netcoreapp2.1\Rise.Innovation.SkillsAssessment.Tests.deps.json
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\bin\Debug\netcoreapp2.1\Rise.Innovation.SkillsAssessment.Tests.runtimeconfig.json
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\bin\Debug\netcoreapp2.1\Rise.Innovation.SkillsAssessment.Tests.runtimeconfig.dev.json
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\bin\Debug\netcoreapp2.1\Rise.Innovation.SkillsAssessment.Tests.dll
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\bin\Debug\netcoreapp2.1\Rise.Innovation.SkillsAssessment.Tests.pdb
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\obj\Debug\netcoreapp2.1\Rise.Innovation.SkillsAssessment.Tests.csprojAssemblyReference.cache
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\obj\Debug\netcoreapp2.1\Rise.Innovation.SkillsAssessment.Tests.csproj.CoreCompileInputs.cache
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\obj\Debug\netcoreapp2.1\Rise.Innovation.SkillsAssessment.Tests.AssemblyInfoInputs.cache
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\obj\Debug\netcoreapp2.1\Rise.Innovation.SkillsAssessment.Tests.AssemblyInfo.cs
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\obj\Debug\netcoreapp2.1\Rise.Innovation.SkillsAssessment.Tests.dll
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment.Tests\obj\Debug\netcoreapp2.1\Rise.Innovation.SkillsAssessment.Tests.pdb

@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nicolas.azzara\\Downloads\\Application Engineer Assessment\\Model\\Model.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nicolas.azzara\\Downloads\\Application Engineer Assessment\\Model\\Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nicolas.azzara\\Downloads\\Application Engineer Assessment\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "C:\\Users\\nicolas.azzara\\Downloads\\Application Engineer Assessment\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\nicolas.azzara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nicolas.azzara\\Downloads\\Application Engineer Assessment\\Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nicolas.azzara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/intelligize-3rdparty/auth/26aa249e-7a6a-4b3f-80ed-d656ed35d2e7/api/v2": {},
+          "https://www.myget.org/F/intelligize/auth/26aa249e-7a6a-4b3f-80ed-d656ed35d2e7/api/v2": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

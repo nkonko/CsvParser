@@ -1,0 +1,11 @@
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment\bin\Debug\netcoreapp2.1\Rise.Innovation.CSVTools.deps.json
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment\bin\Debug\netcoreapp2.1\Rise.Innovation.CSVTools.runtimeconfig.json
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment\bin\Debug\netcoreapp2.1\Rise.Innovation.CSVTools.runtimeconfig.dev.json
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment\bin\Debug\netcoreapp2.1\Rise.Innovation.CSVTools.dll
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment\bin\Debug\netcoreapp2.1\Rise.Innovation.CSVTools.pdb
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment\obj\Debug\netcoreapp2.1\Rise.Innovation.CSVTools.csprojAssemblyReference.cache
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment\obj\Debug\netcoreapp2.1\Rise.Innovation.CSVTools.csproj.CoreCompileInputs.cache
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment\obj\Debug\netcoreapp2.1\Rise.Innovation.CSVTools.AssemblyInfoInputs.cache
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment\obj\Debug\netcoreapp2.1\Rise.Innovation.CSVTools.AssemblyInfo.cs
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment\obj\Debug\netcoreapp2.1\Rise.Innovation.CSVTools.dll
+C:\Users\kevin.duber\source\repos\Rise.Innovation.SkillsAssessment\Rise.Innovation.SkillsAssessment\obj\Debug\netcoreapp2.1\Rise.Innovation.CSVTools.pdb
